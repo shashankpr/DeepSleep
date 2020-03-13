@@ -13,4 +13,5 @@ deepsleep/old/
 .DS_STORE
 tests/
 results/
-
+model_output/*
+test_dataset/*
