@@ -1,0 +1,16 @@
+*.pyc
+.idea
+src/data/
+*.hdf
+src/logs/
+src/old/
+*.npz
+*.hdf5
+deepsleep/data/
+deepsleep/logs/
+deepsleep/old/
+*.ipynb_checkpoints/
+.DS_STORE
+tests/
+results/
+
