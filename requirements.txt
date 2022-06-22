@@ -14,7 +14,7 @@ h5py == 2.7.1
 # src/lstm.py: 5
 # src/prepare_dataset.py: 3
 # src/utils.py: 1
-numpy == 1.14.0
+numpy == 1.22.0
 
 # src/prepare_dataset.py: 4
 pandas == 0.22.0
