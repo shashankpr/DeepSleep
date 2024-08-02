@@ -3,7 +3,7 @@
 
 # src/lstm.py: 2,3
 # src/model_callbacks.py: 1
-Keras == 2.1.5
+Keras == 2.13.1
 
 # src/data_generate.py: 3
 # src/prepare_dataset.py: 6
